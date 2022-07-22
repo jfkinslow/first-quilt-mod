@@ -1,8 +1,8 @@
 {
 	"schema_version": 1,
 	"quilt_loader": {
-		"group": "com.example",
-		"id": "example_mod",
+		"group": "io.github.jfkinslow",
+		"id": "first-quilt-mod",
 		"version": "${version}",
 		"metadata": {
 			"name": "Mod Name",
@@ -11,9 +11,9 @@
 				"Me!": "Owner"
 			},
 			"contact": {
-				"homepage": "https://example.com/",
-				"issues": "https://github.com/QuiltMC/quilt-template-mod/issues",
-				"sources": "https://github.com/QuiltMC/quilt-template-mod"
+				"homepage": "https://github.com/jfkinslow/first-quilt-mod",
+				"issues": "https://github.com/jfkinslow/first-quilt-mod/issues",
+				"sources": "https://github.com/jfkinslow/first-quilt-mod"
 			},
 			"icon": "assets/example_mod/icon.png"
 		},
